@@ -1,0 +1,29 @@
+title: "[Idea] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        An idea for a new ForestFuture project, or for something several projects need. Rough ideas are welcome; the thread is where they get shaped.
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What's hard or missing today, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: precedent
+    attributes:
+      label: Prior art
+      description: How do other ecosystems solve it? For example, the Rails equivalent, and what we'd keep or change.
+  - type: textarea
+    id: platform
+    attributes:
+      label: The Cloudflare side
+      description: Which Workers primitives would it build on (D1, Queues, KV, Durable Objects, …), and what are their limits?
+  - type: textarea
+    id: scope
+    attributes:
+      label: First version
+      description: The smallest useful version, and what's deliberately left out.
