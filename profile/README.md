@@ -1,7 +1,5 @@
 # ForestFuture
 
-The future belongs to the forest.
-
 We build small, carefully tested libraries for [Cloudflare Workers](https://developers.cloudflare.com/workers/), bringing the conventions of mature frameworks such as Ruby on Rails to the Worker runtime, while staying honest about what the platform can and can't do.
 
 ## Projects
