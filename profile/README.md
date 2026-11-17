@@ -4,7 +4,7 @@ We build small, carefully tested libraries for [Cloudflare Workers](https://deve
 
 ## Projects
 
-- **d1-record**: a Rails-inspired Active Record for Cloudflare D1. It maps rows to domain objects, with a lazy, composable query vocabulary and a predictable persistence lifecycle. *(In development.)*
+- [**active-record**](https://github.com/forestfuture/active-record/): a new, production-minded Active Record implementation for Cloudflare Workers and Cloudflare D1. It maps rows to domain objects, with a lazy, composable query vocabulary and a predictable persistence lifecycle. *(In development.)*
 
 ## Get involved
 
