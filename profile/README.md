@@ -4,7 +4,7 @@ We build small, carefully tested libraries for [Cloudflare Workers](https://deve
 
 ## Projects
 
-- [**active-record**](https://github.com/forestfuture/active-record/): a new, production-minded Active Record implementation for Cloudflare Workers and Cloudflare D1. It maps rows to domain objects, with a lazy, composable query vocabulary and a predictable persistence lifecycle. *(In development.)*
+- [**Arbor ORM**](https://github.com/forestfuture/active-record/): is an Active Record ORM for TypeScript on Cloudflare D1 and PostgreSQL, built for Cloudflare Workers, with an adapter for each database. It maps rows to domain objects, with a lazy, composable query vocabulary and a predictable persistence lifecycle. *(In development.)*
 
 ## Get involved
 
